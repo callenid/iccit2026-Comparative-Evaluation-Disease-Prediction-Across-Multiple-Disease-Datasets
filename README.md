@@ -6,14 +6,14 @@ This repository organizes public datasets used for machine-learning experiments 
 
 ## Dataset Overview
 
-| Folder | Dataset | Primary source | Credit / donor | 
-|---|---|---|---|---|
-| `datasets/obesity/` | Estimation of Obesity Levels Based On Eating Habits and Physical Condition | UCI Machine Learning Repository | Fabio Mendoza Palechor; Alexis de la Hoz Manotas | 
-| `datasets/breast_cancer/` | Breast Cancer Wisconsin (Diagnostic) | UCI Machine Learning Repository | William H. Wolberg; W. Nick Street; Olvi L. Mangasarian. Donor: Nick Street | 
-| `datasets/heart_disease/` | Heart Disease | UCI Machine Learning Repository | Andras Janosi; William Steinbrunn; Matthias Pfisterer; Robert Detrano. Historical UCI donor attribution: David W. Aha | 
-| `datasets/general_disease/` | Disease Prediction Using Machine Learning | Kaggle | Published/uploaded by KAUSHIL268 | Database: Open Database; Contents: Database Contents |
-| `datasets/thyroid/` | Thyroid Disease | UCI Machine Learning Repository | Garavan Institute; documentation/creator attribution: Ross Quinlan | 
-| `datasets/covid19/` | COVID-19 Symptoms Checker | Kaggle | Bilal Hungund | 
+| Folder | Dataset | Primary source | Credit / donor |
+|---|---|---|---|
+| `datasets/obesity/` | Estimation of Obesity Levels Based On Eating Habits and Physical Condition | UCI Machine Learning Repository | Fabio Mendoza Palechor; Alexis de la Hoz Manotas |
+| `datasets/breast_cancer/` | Breast Cancer Wisconsin (Diagnostic) | UCI Machine Learning Repository | William H. Wolberg; W. Nick Street; Olvi L. Mangasarian. Donor: Nick Street |
+| `datasets/heart_disease/` | Heart Disease | UCI Machine Learning Repository | Andras Janosi; William Steinbrunn; Matthias Pfisterer; Robert Detrano. Historical UCI donor attribution: David W. Aha |
+| `datasets/general_disease/` | Disease Prediction Using Machine Learning | Kaggle | Published/uploaded by KAUSHIL268 |
+| `datasets/thyroid/` | Thyroid Disease | UCI Machine Learning Repository | Garavan Institute; documentation/creator attribution: Ross Quinlan |
+| `datasets/covid19/` | COVID-19 Symptoms Checker | Kaggle | Bilal Hungund |
 
 ## Download
 
