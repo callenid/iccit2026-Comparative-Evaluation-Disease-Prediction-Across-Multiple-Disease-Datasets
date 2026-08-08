@@ -2,6 +2,8 @@
 
 This repository organizes public datasets used for machine-learning experiments involving obesity, breast cancer, heart disease, general symptom-based disease prediction, thyroid disease, and COVID-19 symptoms.
 
+> **Research use:** The datasets included in this repository were used in the research paper *Comparative Evaluation of Machine Learning Models for Symptom-Based Disease Prediction Across Multiple Disease Datasets*.
+
 > **Important:** These datasets are intended for research and educational use. They must not be treated as a substitute for professional medical diagnosis, clinical validation, or medical advice.
 
 ## Dataset Overview
